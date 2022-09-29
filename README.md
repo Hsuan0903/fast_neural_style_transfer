@@ -1,10 +1,16 @@
 # Fast neural style transform
+This is the repository of the fast neural style transform.
+## workflow
+![style](https://user-images.githubusercontent.com/67819957/192943068-6fc1dd0a-325a-4362-94f5-3c100d75731a.png)
 
-## This is the repository of the fast neural style transform.
-
+## model architecture
+![VGG](https://user-images.githubusercontent.com/67819957/192943101-b519f8d5-7e17-49ac-812a-37ddc6c39586.png)
+![tran](https://user-images.githubusercontent.com/67819957/192943108-263ffff2-937f-4cac-bcf9-b6ddb685dc20.png)
 ## Function description
 
+
 `Train.py` is the implementation for training transform model.
+
 
 `Eval.py` is the implementation for evaluating the pre-trained transform model.
 
